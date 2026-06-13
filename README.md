@@ -1,9 +1,11 @@
 
-# Hi, I’m Andreas ☕
+# Hi, I'm Andreas ☕
 
-- 🇬🇧 **Day job:** Engineer @ **Morgan Stanley – FXEM Trading & Risk**
-- 🌙 **Night shift:** Low-latency dev, building a generic and observable calculation platform (private repo)
-- 🛠 **Tech toys:** C++ · Redis · IB Gateway · Linux · Docker · Eigen
-- 🎸 **Hobbies:** Guitar riffs · open-water swims 🏊‍♂️ · pub chats 🍻
+---
 
-> _Most commits are private, sorry!_
+- 🚀 **Now:** Founder @ **Theseus Labs** — building a deterministic, low-latency runtime for mission-critical infrastructure
+- 🏦 **Before:** 3 years on the intraday FX & rates risk engine @ Morgan Stanley
+- 🛠️ **Tech toys:** C++ · Linux · Docker · Redis · Eigen
+- 🎸 **Hobbies:** Guitar riffs · open-water swims 🏊 · chess ♟️ · pub chats 🍺
+
+> Most commits are private, sorry!
